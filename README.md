@@ -1,7 +1,7 @@
 # NoteTaker Application 
 Note Taker application helps in taking notes. Notes can be starred , deleted and archived according to need. 
 
-[Live Demo](https://notes-taking-application.vercel.app/)
+[Live Demo](https://todonotesmaking.netlify.app/)
 
 ## ScreenShot
 <img width="946" alt="Note" src="https://user-images.githubusercontent.com/100838996/229048873-569367b6-7c3e-4377-97de-f0d087918d29.png">
