@@ -4,8 +4,8 @@ Note Taker application helps in taking notes. Notes can be starred , deleted and
 [Live Demo](https://todonotesmaking.netlify.app/)
 
 ## ScreenShot
-<img width="946" alt="Note" src="https://user-images.githubusercontent.com/100838996/229048873-569367b6-7c3e-4377-97de-f0d087918d29.png">
-<img width="847" alt="Note2" src="https://user-images.githubusercontent.com/100838996/229049012-2634f5a3-9512-42b5-88fa-28dd1f621fab.png">
+<img width="946" alt="Note" src="https://github.com/Vivek563/Notes-taking/blob/main/screensort/1.jpg?raw=true">
+<img width="847" alt="Note2" src="https://github.com/Vivek563/Notes-taking/blob/main/screensort/2.jpg?raw=true">
 
 ## Tech Stack 
 - ReactJS 
